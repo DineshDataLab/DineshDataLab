@@ -1,11 +1,23 @@
-👋 Hi, I’m Dinesh!
+<h1 align="center">Hi there, I'm Dinesh 👋</h1> <h3 align="center">Aspiring Generative AI Engineer | Data Science Learner</h3> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Learning+Generative+AI;Exploring+LLMs+%26+Machine+Learning;Building+with+Python+%2B+SQL;Turning+Data+into+Decisions" alt="Typing SVG" /> </p>
+🚀 About Me
+🎓 Currently studying Generative AI, building on my foundation in Data Science
+🔭 Working on strengthening skills in Python, SQL, Pandas & Machine Learning
+🌱 Learning how LLMs, prompt engineering, and GenAI applications work under the hood
+🎯 Goal: To become a skilled Generative AI Engineer
+💼 Balancing an office job, data science studies, and fitness — discipline over motivation
+📍 Based in Tamil Nadu, India
+🛠️ Tech Stack
+<p align="left"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/> <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge&logo=openai&logoColor=white"/> </p>
+💡 Motivation
 
-I’m an AI enthusiast, focused on building intelligent solutions with Python 🐍, Machine Learning 🤖, and Data Science 📊. I enjoy exploring how AI can solve real-world problems, automate tasks, and turn data into meaningful insights. 💡
+"The expert in anything was once a beginner."
 
-🔍 What I’m working on:
+"Success is the sum of small efforts, repeated day in and day out."
 
-  1.Learning and building projects with Artificial Intelligence and Machine Learning 🤖
+"Learning never exhausts the mind — it only sharpens the vision."
 
-  2.Improving my Python, data handling, and model-building skills 💻
-
-  3.Exploring Generative AI, deep learning, and practical AI applications 🚀
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak" height="165"/> </p>
+📫 Connect with Me
+<p align="left"> <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:YOUR_EMAIL"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
+<p align="center"><i>⭐ Currently on the journey from Data Science to Generative AI — one project at a time.</i></p>
