@@ -63,7 +63,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DineshDataLab&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DineshDataLab&theme=tokyonight" alt="GitHub Streak" height="165"/>
 </p>
 
@@ -79,7 +79,7 @@
   <a href="https://www.linkedin.com/in/dinesh-datascientist" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:dineshdmvsalem@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=dineshdmvsalem@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
