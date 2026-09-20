@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Hi+there+%F0%9F%91%8B;I'm+Dinesh" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Hi+there+%F0%9F%91%8B;I'm+Dinesh+%F0%9F%98%8E" alt="Typing SVG" />
 </p>
 
 <h3 align="center">Aspiring Generative AI Engineer | Data Science Learner</h3>
@@ -16,12 +16,12 @@
 
 ### 🚀 About Me
 
-- 🎓 Currently studying **Generative AI**, building on my foundation in Data Science
-- 🔭 Working on strengthening skills in **Python, SQL, Pandas & Machine Learning**
+- 🎓 Currently studying **Generative AI**, building on my foundation in Gen AI & Data Science
+- 🔭 Working on strengthening skills in **Python, SQL & Machine Learning**
 - 🌱 Learning how **LLMs, prompt engineering, and GenAI applications** work under the hood
 - 🎯 Goal: To become a skilled **Generative AI Engineer**
 - 💼 Balancing an office job, data science studies, and fitness — discipline over motivation
-- 📍 Based in Tamil Nadu, India
+- 📍 Based in Salem, Tamil Nadu, India
 
 <br>
 
@@ -63,8 +63,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DineshDataLab&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DineshDataLab&theme=tokyonight" alt="GitHub Streak" height="165"/>
 </p>
 
 <br>
@@ -76,10 +76,10 @@
 ### 📫 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/dinesh-datascientist" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:dineshdmvsalem@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -90,4 +90,4 @@
 
 <br>
 
-<p align="center"><i>⭐ Currently on the journey from Data Science to Generative AI — one project at a time.</i></p>
+<p align="center"><i>⭐ Currently working in BPO Finance, building my path towards a career in Generative AI.</i></p>
